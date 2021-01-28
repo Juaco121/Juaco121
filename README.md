@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Juan Granada</h1>
 <h3 align="center">A passionate for the technologie</h3>
 
-```Public class Bio
+```js
+Public class Bio
    {
       public String name: Juan Granada
       public String title: Software Developer
