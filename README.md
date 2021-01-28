@@ -11,11 +11,13 @@
    }
    Public class SocialMedia
    {
+   ```
       public String twitter: 
       public String GitHub: https://github.com/Juaco121;
       public String Linkedin: https://www.linkedin.com/in/juan-fernando-granada-ramirez/;
       public String email: juangraram@outlook.com;
    }
+   ```
    Public class Skills
    {
       public String languages: Java, Python;
