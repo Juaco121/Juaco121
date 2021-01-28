@@ -4,10 +4,10 @@
 ```js
 Public class Bio
    {
-      public String name: Juan Granada
-      public String title: Software Developer
-      public String location: Medellín - Colombia
-      public String email: juangraram@outlook.com
+      public String name: Juan Granada;
+      public String title: Software Developer;
+      public String location: Medellín - Colombia;
+      public String email: juangraram@outlook.com;
    }
 ```
 
