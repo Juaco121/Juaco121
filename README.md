@@ -18,14 +18,10 @@
    }   
 ```
 
-    Public class SocialMedia
-      {
-         public String ([Twitter:](https://twitter.com/JuanGraRam))
-         public String ([GitHub:](https://github.com/Juaco121))
-         public String ([Linkedin:](https://www.linkedin.com/in/juan-fernando-granada-ramirez/))
-         public String ([Email:](juangraram@outlook.com))
-      }
-
+([Twitter:](https://twitter.com/JuanGraRam))
+([GitHub:](https://github.com/Juaco121))
+([Linkedin:](https://www.linkedin.com/in/juan-fernando-granada-ramirez/))
+([Email:](juangraram@outlook.com))
 
 [![Juan Fer github stats](https://github-readme-stats.vercel.app/api?username=juaco121&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/juaco121)
 
