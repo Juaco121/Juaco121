@@ -20,5 +20,6 @@
 
 
 [![Juan Fer github stats](https://github-readme-stats.vercel.app/api?username=juaco121&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/juaco121)
+![Juan Feri's GitHub Stats](https://github-readme-stats.vercel.app/api?username=juaco121&count_private=true&show_icons=true)
 
 <h3 align="left">Connect with me:</h3>
