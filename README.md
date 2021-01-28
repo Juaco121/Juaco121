@@ -11,7 +11,7 @@
    }
    Public class SocialMedia
    {
-      public String twitter: https://twitter.com/juangraram;
+      public String twitter: ([@juangraram](https://twitter.com/JuanGraRam))
       public String GitHub: https://github.com/Juaco121;
       public String Linkedin: https://www.linkedin.com/in/juan-fernando-granada-ramirez/;
       public String email: juangraram@outlook.com;
