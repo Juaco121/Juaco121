@@ -7,6 +7,7 @@
       public String name: Juan Granada;
       public String title: Software Developer;
       public String location: Medellín - Colombia;
+      public String email: juangraram@outlook.com
    }
 
    Public class Skills
@@ -25,7 +26,6 @@
 [Linkedin](https://www.linkedin.com/in/juan-fernando-granada-ramirez/)
 </br>
 
-[Email]<a href="mailto:richardcqt28@gmail.com"></a>
 
 [![Juan Fer github stats](https://github-readme-stats.vercel.app/api?username=juaco121&show_icons=true&theme=merko&hide=["contribs","issues"])](https://github.com/juaco121)
 
