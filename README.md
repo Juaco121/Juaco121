@@ -1,19 +1,13 @@
 <h1 align="center">Hi 👋, I'm Juan Granada</h1>
 <h3 align="center">A passionate for the technologie</h3>
 
-```javascript
-const Juan Granada = {
-  pronouns: "he" | "him",
-  code: [HTML5, CSS3, Python, Java],
-  tools: [Linux, Git],
-  architecture: [""],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
-}
+```Public class Bio
+   {
+      public String name: Juan Granada
+      public String title: Software Developer
+      public String location: Medellín - Colombia
+      public String email: juangraram@outlook.com
+   }
 ```
 
 <h3 align="left">Connect with me:</h3>
